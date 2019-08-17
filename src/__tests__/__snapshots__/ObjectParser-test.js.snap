@@ -1,8 +1,8 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
-exports[`ObjectParser createTC() match snapshot 1`] = `"PeopleType"`;
+exports[`ObjectParser getFieldConfig() object match snapshot 1`] = `"PeopleType"`;
 
-exports[`ObjectParser createTC() match snapshot 2`] = `
+exports[`ObjectParser getFieldConfig() object match snapshot 2`] = `
 Object {
   "birth_year": Object {
     "args": Array [],
@@ -79,9 +79,9 @@ Object {
 }
 `;
 
-exports[`ObjectParser createTC() match snapshot 3`] = `"PeopleType_Homeworld"`;
+exports[`ObjectParser getFieldConfig() object match snapshot 3`] = `"PeopleType_Homeworld"`;
 
-exports[`ObjectParser createTC() match snapshot 4`] = `
+exports[`ObjectParser getFieldConfig() object match snapshot 4`] = `
 Object {
   "name": Object {
     "args": Array [],
